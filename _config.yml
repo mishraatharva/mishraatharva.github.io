@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 description: Atharva Mishra Portfolio
+title: ""
 theme: jekyll-theme-cayman
