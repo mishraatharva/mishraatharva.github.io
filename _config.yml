@@ -1,15 +1,4 @@
 # add the following to _config.yml file
-# description: Atharva Mishra Portfolio
-# # theme: jekyll-theme-cayman
-# remote_theme: poole/lanyon
-
-title: Atharva Mishra
 description: Atharva Mishra Portfolio
-
-# Use remote theme from GitHub
+theme: jekyll-theme-cayman
 remote_theme: poole/lanyon
-
-# Optional: set markdown engine
-markdown: kramdown
-
-
